@@ -1,4 +1,4 @@
 # meenakshicode
-this is my fiest repository
+this is my first repository
 <br/>
 author-meenakshi pal
